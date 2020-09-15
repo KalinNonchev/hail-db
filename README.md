@@ -6,4 +6,4 @@ Pipeline:
 1) injest VCF files in Hail-Tables
 2) query VCF-tables for GT, GQ, DP fields for variants and samples of interest
 
-Take look into GettingStarted.ipynb!
+Take a look into GettingStarted.ipynb!
